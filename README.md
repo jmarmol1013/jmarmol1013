@@ -6,13 +6,17 @@ Software Engineer
 
 I'm a Software Engineering Student at Centennial College, Toronto. I have been creating personal projects and looking for roles as Software Engineer.
 
-*   🌍  I'm based in Toronto
-*   🖥️  See my portfolio at [My Portfolio](http://camilo-portfolio-jgn7tx89e-jmarmol1013.vercel.app/)
-*   ✉️  You can contact me at [juanca10cantabria@gmail.com](mailto:juanca10cantabria@gmail.com)
-*   🚀  I'm currently working on [100 Days Coding Challenge](http://github.com/jmarmol1013/100CodingDays)
-*   🧠  I'm learning Machine Learning
-*   🤝  I'm open to collaborating on Full-Stack, Data Science, Mobile apps, Quality Assurance and UI/UX projects
-*   ⚡  Love fashion, food and sports### Skills 
+* 🌍  I'm based in Toronto
+* 🖥️  See my portfolio at [My Portfolio](http://camilo-portfolio-taupe.vercel.app/)
+* ✉️  You can contact me at [juanca10cantabria@gmail.com](mailto:juanca10cantabria@gmail.com)
+* 🚀  I'm currently working on [100 Days Coding Challenge](http://github.com/jmarmol1013/100CodingDays)
+* 🧠  I'm learning Machine Learning
+* 🤝  I'm open to collaborating on Full-Stack, Data Analyst, Mobile apps, Quality Assurance and UI/UX projects
+* ⚡  Love fashion, food and sports
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -41,7 +45,24 @@ I'm a Software Engineering Student at Centennial College, Toronto. I have been c
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                <p align="left">
-                      <a href="https://www.github.com/jmarmol1013" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>        
-                      <a href="https://www.linkedin.com/in/juan-camilo-marmolejo-58b02224b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><br></p>### Badges<b>My GitHub Stats</b><br><a
-                      href="http://www.github.com/jmarmol1013"><img src="https://github-readme-stats.vercel.app/api?username=jmarmol1013&show_icons=true&hide=prs,contribs&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="jmarmol1013's GitHub stats" /></a><a href="https://github.com/jmarmol1013" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarmol1013&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><br><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/jmarmol1013/my-portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmarmol1013&repo=my-portfolio&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/jmarmol1013/ToDoList-Client" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmarmol1013&repo=ToDoList-Client&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/jmarmol1013/100CodingDays" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmarmol1013&repo=100CodingDays&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/jmarmol1013/ShoeStoreInventory" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmarmol1013&repo=ShoeStoreInventory&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/jmarmol1013" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/juan-camilo-marmolejo-58b02224b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/jmarmol1013"><img src="https://github-readme-stats.vercel.app/api?username=jmarmol1013&show_icons=true&hide=prs,contribs&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="jmarmol1013's GitHub stats" /></a>
+
+<a href="https://github.com/jmarmol1013" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarmol1013&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/jmarmol1013/CryptocurrenciesAnalysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmarmol1013&repo=CryptocurrenciesAnalysis&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/jmarmol1013/ToDoList-Client" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmarmol1013&repo=ToDoList-Client&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/jmarmol1013/100CodingDays" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmarmol1013&repo=100CodingDays&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/jmarmol1013/ShoeStoreInventory" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmarmol1013&repo=ShoeStoreInventory&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
