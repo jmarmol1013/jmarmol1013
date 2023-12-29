@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmarmol1013&label=Profile%20views&color=0e75b6&style=flat" alt="jmarmol1013" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently working as **I&IT Technology Analyst/Developer at Ministry of Public and Business Service Delivery, Govenment of Ontario**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
