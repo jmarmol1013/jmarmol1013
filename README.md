@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmarmol1013&label=Profile%20views&color=0e75b6&style=flat" alt="jmarmol1013" /> </p>
 
-- 🌱 I’m currently working as **I&IT Technology Analyst/Developer at Ministry of Public and Business Service Delivery, Govenment of Ontario**
+- 🌱 I’m currently working as **Software Developer at Ministry of Public and Business Service Delivery, Govenment of Ontario**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 👨‍💻 All of my projects are available at [My portfolio](https://juan-portfolio-jmarmol1013.vercel.app/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://juan-portfolio-fawn.vercel.app/)
 
 - 💬 Ask me about **Full stack development or Machine Learning**
 
